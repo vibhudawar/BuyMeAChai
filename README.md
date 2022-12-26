@@ -1,6 +1,4 @@
-
 ![Logo](/screenshots/logo.png)
-
 
 # Buy Me A Chai
 
@@ -9,11 +7,10 @@ The user needs to login the Dapp with the **Metamask Wallet** and after that he/
 
 After paying, the transactions are listed on the webpage in realtime on the **Ethereum Goerli Testnet**.
 
-
-
 ## Video Demo
 
-[video]
+[YouTube Video](https://youtu.be/Tyjn4o9Fp-0)
+
 ## Features
 
 - Users can connect to the app through **Metamask Wallet**
@@ -22,13 +19,11 @@ After paying, the transactions are listed on the webpage in realtime on the **Et
 - Safe and secure with the power of **Blockchain**
 - Deployed on the **Goerli testnet** of the Ethereum blockchain
 
-
 ## Tech Stack
 
 **Client:** React, HTML, CSS, Js
 
 **Server:** Hardhat, Solidity
-
 
 ## Installation
 
@@ -42,7 +37,6 @@ Install the project locally with npm
   npm start
 ```
 
-    
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file, can be accessed from the [alchemy.com](https://www.alchemy.com/). The `PRIVATE_KEY` can be accessed from the Metamask wallet.
@@ -53,8 +47,6 @@ To run this project, you will need to add the following environment variables to
 
 `PRIVATE_KEY`
 
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
